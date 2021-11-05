@@ -1,4 +1,4 @@
-# 走るか寝るかするメロス
+# 走るか走らないか選択肢の無いメロス
 
 ## 概要
 
@@ -8,7 +8,7 @@
 
 ## ライセンス
 
-ここで作成されたスクリプト(`first.ks`)に関してはCC0。ティラノスクリプトについては[配布元](https://tyrano.jp/)のライセンスに従います。`docs/bgimage`以下にあるファイルは、Pexcelsからダウンロードしたものです。
+ここで作成されたスクリプト(`first.ks`)に関してはCC0。ティラノスクリプトについては[配布元](https://tyrano.jp/)のライセンスに従います。`docs/bgimage`以下にあるファイルは、Pexcels、pixabayからダウンロードしたものです。
 
 * `run.jpg` by Maksim Romashkin
-* `sleep.jpg` by Andrea Piacquadio
+* `planet.jpg` by LoganArt
